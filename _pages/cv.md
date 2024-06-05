@@ -11,49 +11,51 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Water Science and Engineering, Heilongjiang Institute of Technology, 2017-2021
+* M.S. in Human-Centered Artificial Intelligent, Technical University of Denmark, 2023-2025
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*  November 2023: Conference Helper
+  * 30th Annual Conference on Computer and Communications Security
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023: Research Assistant
+  * Collabrate with Xia Men University and Peng Cheng Laboratory in Weakly Supervised Referring Expression Comphrehension
+
+
+* 2024: Research Assistant
+  * Collabrate with Shanghai AI Laboratory University in Mixture-of-visual-experts for weakly supervised REC
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+Projects
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Flash-SAM: Knowledge Distillation For Segment Anything (Advanced Computer Vision Course project).
+ Roles in charge: 
+  * Collect, read and analysis the paper from this research area and discuss advantages and disadvantages of each pathway to find novel ideas with supervisor
+  * Implement and improve the research ideas and conduct extensive experiments to prove it work.
+  * Write the research paper, make the project poster and present the presentation.
   
-Teaching
+* Enhance Weakly Supervised Referring Image Segmentation with diffusion model (advised by Prof.Dimitrios Papadopoulos at DTU).
+ Roles in charge: 
+  * Collect, read and analysis the paper from this research area and discuss advantages and disadvantages of each pathway to find novel ideas with supervisor
+  * Implement and improve the research ideas and conduct extensive experiments to prove it work.
+  * Write the research paper, make the project poster and present the presentation.
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
