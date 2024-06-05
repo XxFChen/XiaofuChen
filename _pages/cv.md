@@ -55,12 +55,4 @@ Projects
   * Collect, read and analysis the paper from this research area and discuss advantages and disadvantages of each pathway to find novel ideas with supervisor
   * Implement and improve the research ideas and conduct extensive experiments to prove it work.
   * Write the research paper, make the project poster and present the presentation.
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+
