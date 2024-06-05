@@ -17,7 +17,7 @@ Education
 Experience
 ======
 *  November 2023: Conference Helper
-  * 30th Annual Conference on Computer and Communications Security
+  * 30th Annual Conference on Computer and Communications Security(CCS)
 
 
 * 2023: Research Assistant
