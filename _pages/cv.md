@@ -16,7 +16,7 @@ Education
 
 Experience
 ======
-*  November 2023: Conference Helper
+* November 2023: Conference Helper
   * 30th Annual Conference on Computer and Communications Security(CCS)
 
 
