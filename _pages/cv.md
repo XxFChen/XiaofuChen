@@ -20,11 +20,11 @@ Experience
   * 30th Annual Conference on Computer and Communications Security(CCS)
 
 
-* 2023: Research Assistant
+* 2023: Research Assistant（Remote）
   * Collabrate with Xia Men University and Peng Cheng Laboratory in Weakly Supervised Referring Expression Comphrehension
 
 
-* 2024: Research Assistant
+* 2024: Research Assistant（Remote）
   * Collabrate with Shanghai AI Laboratory University in Mixture-of-visual-experts for weakly supervised REC
   
 <!-- Skills
