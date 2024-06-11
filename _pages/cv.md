@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Water Science and Engineering, Heilongjiang Institute of Technology, 2017-2021
-* M.S. in Human-Centered Artificial Intelligent, Technical University of Denmark, 2023-2025
-
+* B.S. in Water Science and Engineering, Heilongjiang Institute of Technology, 2017-2021 GPA:79.8/100
+* M.S. in Human-Centered Artificial Intelligent, Technical University of Denmark, 2023-2025 GPA:3.34/4
+GPA:
 Experience
 ======
 * November 2023: Conference Helper
