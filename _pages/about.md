@@ -16,4 +16,4 @@ redirect_from:
 
 Publications:
 
-📄APL: Anchor-based Prompt Learning for One-stage Weakly Supervised Referring Expression Comprehension (Submitted to ECCV 2024)
+📄APL: Anchor-based Prompt Learning for One-stage Weakly Supervised Referring Expression Comprehension(ECCV 2024) Yaxin Luo, Jiayi Ji, **Xiaofu Chen**, Yuxin Zhang, Tianhe Ren, Gen Luo
