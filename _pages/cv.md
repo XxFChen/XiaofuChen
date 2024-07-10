@@ -25,7 +25,7 @@ Experience
 
 
 * 2024: Research Assistant（Remote）
-  * Collabrate with Shanghai AI Laboratory University in Mixture-of-visual-experts for weakly supervised REC
+  * Collabrate with Shanghai AI Laboratory in Mixture-of-visual-experts for weakly supervised REC
   
 <!-- Skills
 ======
@@ -45,13 +45,15 @@ Experience
 Projects
 ======
 * Flash-SAM: Knowledge Distillation For Segment Anything (Advanced Computer Vision Course project).
+By experimenting with feature-based and logits-based distillation methods for the SAM model's image encoder, and ultimately using the feature-based approach along with a newly proposed feature adapter, the results surpassed those of MobileSAM.
  Roles in charge: 
   * Collect, read and analysis the paper from this research area and discuss advantages and disadvantages of each pathway to find novel ideas with supervisor
   * Implement and improve the research ideas and conduct extensive experiments to prove it work.
   * Write the research paper, make the project poster and present the presentation.
   
 * Enhance Weakly Supervised Referring Image Segmentation with diffusion model (advised by Prof.Dimitrios Papadopoulos at DTU).
- Roles in charge: 
+The model uses attention maps from a diffusion model to enhance image segmentation by focusing on relevant features based on linguistic cues. It employs a pyramid CNN architecture to integrate attention maps at multiple scales, improving segmentation accuracy and computational efficiency for weakly supervised RES applications.
+Roles in charge: 
   * Collect, read and analysis the paper from this research area and discuss advantages and disadvantages of each pathway to find novel ideas with supervisor
   * Implement and improve the research ideas and conduct extensive experiments to prove it work.
   * Write the research paper, make the project poster and present the presentation.
