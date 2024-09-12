@@ -25,7 +25,8 @@ Experience
 
 
 * 2024: Research Assistant（Remote）
-  * Collabrate with Shanghai AI Laboratory in Mixture-of-visual-experts for weakly supervised REC
+  * Collabrate with Shanghai AI Laboratory and Xiamen University in DViR: Dynamic Visual Routing for Weakly Supervised Referring
+Expression Comprehension
   
 <!-- Skills
 ======
