@@ -15,7 +15,7 @@ redirect_from:
 
 Publications:
 
-📄DViR: Dynamic Visual Routing for Weakly Supervised Referring Expression Comprehension(submitted to AAAI 2025)
+📄DViR: Dynamic Visual Routing for Weakly Supervised Referring Expression Comprehension(submitted to AAAI 2025)( first author)
 
 
 📄APL: Anchor-based Prompt Learning for One-stage Weakly Supervised Referring Expression Comprehension(ECCV 2024) 
