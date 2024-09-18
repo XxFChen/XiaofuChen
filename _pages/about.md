@@ -9,7 +9,7 @@ redirect_from:
 
 👨🏻‍💻I'm a final year postgraduate student at Techinacl University of Denmark. I am so glad to do research projects under the supervision of [Prof. Dimitrios Papadopoulos](https://people.csail.mit.edu/dimpapa/) and [Prof.Weizhi Meng](https://scholar.google.com/citations?user=OlepJ5wAAAAJ).
 
-📔My research interests encompass multimodal learning, particularly visual language perception in images and videos (localization/segmentation) and video understanding. Additionally, I am keen on exploring the efficiency aspects of large models. I have also delved into weakly supervised learning, working on multimodal projects like weakly supervised referring expression comprehension (REC) and weakly supervised segmentation (RES).
+📔My research interests lie in multimodal learning, particularly in visual language perception for images and videos, such as localization, segmentation, and video understanding. Additionally, I am keen on exploring the theoretical foundations and efficiency improvements of large models. My work also extends to weakly supervised learning, where I have worked on projects like weakly supervised referring expression comprehension (REC) and segmentation (RES). I am particularly interested in continual learning, reinforcement learning, and representation learning, as these areas have the potential to enhance the adaptability and scalability of multimodal systems.
 
 
 
