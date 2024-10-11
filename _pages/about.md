@@ -11,9 +11,6 @@ redirect_from:
 
 📔My research interests lie in multimodal learning, particularly in visual language perception for images and videos, such as localization, segmentation, and video understanding. Additionally, I am keen on exploring the theoretical foundations and efficiency improvements of large models. My work also extends to weakly supervised learning, where I have worked on projects like weakly supervised referring expression comprehension (REC) and segmentation (RES). 
 
-📖I am currently working on projects:
-
-Post-Training Pruning for Efficient LLM Deployment on Mobile Devices with Prof.Guosheng Hu
 
 Publications:
 
