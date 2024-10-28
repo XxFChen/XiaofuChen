@@ -21,3 +21,6 @@ Publications:
   
   Yaxin Luo, Jiayi Ji, **Xiaofu Chen**, Yuxin Zhang, Tianhe Ren, Gen Luo
   
+📄Blockchain-Driven Distributed Edge Intelligence for Enhanced Internet-of-Vehicles(IEEE Internet of Things Journal)
+
+  **Xiaofu Chen**, Weizhi Meng, Heyang Huang
