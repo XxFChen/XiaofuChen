@@ -16,16 +16,18 @@ Education
 
 Experience
 ======
-* November 2023: Conference Helper
-  * 30th Annual Conference on Computer and Communications Security(CCS)
-
+* 2025.1.06: Visiting Researcher  
+  * MBZUAI's Visiting Researcher, supervised by [Prof. Yova Kementchedjhieva](https://yovakem.github.io/).
+    
+* 2024: Research Assistant（Remote）
+  * Collabrate with Shanghai AI Laboratory and Xiamen University in DViR: Dynamic Visual Routing for Weakly Supervised Referring
 
 * 2023: Research Assistant（Remote）
   * Collabrate with Xia Men University and Peng Cheng Laboratory in Weakly Supervised Referring Expression Comphrehension
 
+* November 2023: Conference Helper
+  * 30th Annual Conference on Computer and Communications Security(CCS)
 
-* 2024: Research Assistant（Remote）
-  * Collabrate with Shanghai AI Laboratory and Xiamen University in DViR: Dynamic Visual Routing for Weakly Supervised Referring
 Expression Comprehension
   
 <!-- Skills
