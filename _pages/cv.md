@@ -1,6 +1,4 @@
 
-{% include base_path %}
-
 Education
 ======
 * B.S. in Water Science and Engineering, Heilongjiang Institute of Technology, 2017-2021 GPA:79.8/100
