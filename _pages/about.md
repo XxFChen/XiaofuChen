@@ -14,13 +14,17 @@ redirect_from:
 
 Publications:
 
-📄DViR: Dynamic Visual Routing for Weakly Supervised Referring Expression Comprehension(submitted to CVPR 2025)( first author)
+📄DViN: Dynamic Visual Routing Network for Weakly Supervised Referring Expression Comprehension(CVPR 2025)
+
+  **Xiaofu Chen**, Yaxin Luo, Gen Luo, Jiayi Ji, Henghui Ding, Yiyi Zhou
 
 
+📄Blockchain-Driven Distributed Edge Intelligence for Enhanced Internet-of-Vehicles(IEEE Internet of Things Journal)
+
+  **Xiaofu Chen**, Weizhi Meng, Heyang Huang
+  
 📄APL: Anchor-based Prompt Learning for One-stage Weakly Supervised Referring Expression Comprehension(ECCV 2024) 
   
   Yaxin Luo, Jiayi Ji, **Xiaofu Chen**, Yuxin Zhang, Tianhe Ren, Gen Luo
   
-📄Blockchain-Driven Distributed Edge Intelligence for Enhanced Internet-of-Vehicles(IEEE Internet of Things Journal)
 
-  **Xiaofu Chen**, Weizhi Meng, Heyang Huang
