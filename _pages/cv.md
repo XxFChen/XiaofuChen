@@ -15,7 +15,10 @@ Education
 
 Experience
 ======
-* 2025.1.06: Visiting Researcher  
+* 2025.4.1 - 2025.8.31: Research Assistant  
+  * MBZUAI's Research Assistant, supervised by [Prof. Yova Kementchedjhieva](https://yovakem.github.io/).
+
+* 2025.1.06 - 2025.3.31: Visiting Researcher  
   * MBZUAI's Visiting Researcher, supervised by [Prof. Yova Kementchedjhieva](https://yovakem.github.io/).
     
 * 2024: Research Assistant（Remote）
