@@ -13,6 +13,7 @@ redirect_from:
 
 
 Publications:
+
 📄SPECS: Specificity-Enhanced CLIP-Score for Long Image Caption Evaluation(EMNLP 2025 Main)
 
   **Xiaofu Chen**, Israfel Salazar, Yova Kementchedjhieva
