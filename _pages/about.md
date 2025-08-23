@@ -13,6 +13,9 @@ redirect_from:
 
 
 Publications:
+📄SPECS: Specificity-Enhanced CLIP-Score for Long Image Caption Evaluation(EMNLP Main)
+
+  **Xiaofu Chen**, Israfel Salazar, Yova Kementchedjhieva
 
 📄DViN: Dynamic Visual Routing Network for Weakly Supervised Referring Expression Comprehension(CVPR 2025)
 
