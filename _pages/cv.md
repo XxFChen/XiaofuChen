@@ -49,6 +49,15 @@ Expression Comprehension
   
 Projects
 ======
+* How Do GUI Agents Fail? A Trajectory-Level Behavioral Analysis Study.
+This project studies GUI-agent failures beyond final task accuracy by analyzing the full interaction trajectory. Under a shared browser-agent scaffold, it evaluates six multimodal models on 360 trajectories from six CAPTCHA-style puzzle families, and characterizes interaction cost, tool-use policies, programmatic fallback, repeated tool loops, stopping patterns, and self-correction outcomes. The study shows that similar accuracy can hide very different agent behaviors, including early stopping, long unproductive interaction, search-heavy behavior, click-dominant behavior, and programmatic GUI bypass.
+Roles in charge:
+  * Design the trajectory-level behavioral analysis protocol and summarize agent behavior beyond final success rate.
+  * Analyze tool-use patterns across GUI operations, including click, scroll, and programmatic evaluate calls.
+  * Classify the functional roles of programmatic fallback, separating inspection and targeting from event-level or state-level GUI bypass.
+  * Conduct model- and task-level failure analysis, including interaction cost, repeated tool-mode loops, early stops, long failures, and recovery after self-correction.
+  * Write the research paper and organize the figures, tables, and main findings for submission.
+  
 * Flash-SAM: Knowledge Distillation For Segment Anything (Advanced Computer Vision Course project).
 By experimenting with feature-based and logits-based distillation methods for the SAM model's image encoder, and ultimately using the feature-based approach along with a newly proposed feature adapter, the results surpassed those of MobileSAM.
  Roles in charge: 
@@ -62,4 +71,3 @@ Roles in charge:
   * Collect, read and analysis the paper from this research area and discuss advantages and disadvantages of each pathway to find novel ideas with supervisor
   * Implement and improve the research ideas and conduct extensive experiments to prove it work.
   * Write the research paper, make the project poster and present the presentation.
-
