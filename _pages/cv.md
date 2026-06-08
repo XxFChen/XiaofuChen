@@ -49,23 +49,21 @@ Expression Comprehension
   
 Projects
 ======
-* How Do GUI Agents Fail? A Trajectory-Level Behavioral Analysis Study.
-This project investigates GUI-agent failures as trajectory-level phenomena rather than simple final-task outcomes. Using a shared browser-agent scaffold, it analyzes 360 trajectories from six multimodal models across six CAPTCHA-style puzzle families, covering visual matching, ordered execution, spatial reasoning, symbolic simulation, repeated control, and long-horizon spatial manipulation. The study introduces trajectory-level behavioral signatures to reveal what final accuracy hides: how agents allocate their interaction budget, when they rely on visible GUI actions versus programmatic access, whether they fall into repeated tool-use loops, and how failures unfold over time. A central part of the analysis is separating programmatic assistance from GUI bypass by classifying `evaluate` calls into inspection, targeting, event-level bypass, and state-level bypass. The findings show that similarly accurate agents can fail in very different ways, including stopping too early, persisting too long, overusing programmatic probing, or verbalizing self-correction without actually recovering.
-Roles in charge:
-  * Design the trajectory-level behavioral analysis protocol and summarize agent behavior beyond final success rate.
-  * Analyze tool-use patterns across GUI operations, including click, scroll, and programmatic evaluate calls.
-  * Classify the functional roles of programmatic fallback, separating inspection and targeting from event-level or state-level GUI bypass.
-  * Conduct model- and task-level failure analysis, including interaction cost, repeated tool-mode loops, early stops, long failures, and recovery after self-correction.
-  * Write the research paper and organize the figures, tables, and main findings for submission.
+* **HOW DO GUI AGENTS FAIL? A TRAJECTORY-LEVEL BEHAVIORAL ANALYSIS STUDY.**
+This project studies GUI-agent failure through full interaction trajectories rather than final accuracy alone, using 360 trajectories from six multimodal models across six CAPTCHA-style puzzle families.
+Key points:
+  * Proposed trajectory-level behavioral signatures to reveal hidden differences in interaction cost, tool use, repeated loops, and stopping behavior.
+  * Analyzed programmatic `evaluate` calls and separated GUI assistance from event-level or state-level GUI bypass.
+  * Identified distinct failure regimes, including early stopping, long unproductive interaction, over-probing, and self-correction without recovery.
   
-* Flash-SAM: Knowledge Distillation For Segment Anything (Advanced Computer Vision Course project).
+* **FLASH-SAM: KNOWLEDGE DISTILLATION FOR SEGMENT ANYTHING (ADVANCED COMPUTER VISION COURSE PROJECT).**
 By experimenting with feature-based and logits-based distillation methods for the SAM model's image encoder, and ultimately using the feature-based approach along with a newly proposed feature adapter, the results surpassed those of MobileSAM.
  Roles in charge: 
   * Collect, read and analysis the paper from this research area and discuss advantages and disadvantages of each pathway to find novel ideas with supervisor
   * Implement and improve the research ideas and conduct extensive experiments to prove it work.
   * Write the research paper, make the project poster and present the presentation.
   
-* Enhance Weakly Supervised Referring Image Segmentation with diffusion model (advised by Prof.Dimitrios Papadopoulos at DTU).
+* **ENHANCE WEAKLY SUPERVISED REFERRING IMAGE SEGMENTATION WITH DIFFUSION MODEL (ADVISED BY PROF. DIMITRIOS PAPADOPOULOS AT DTU).**
 The model uses attention maps from a diffusion model to enhance image segmentation by focusing on relevant features based on linguistic cues. It employs a pyramid CNN architecture to integrate attention maps at multiple scales, improving segmentation accuracy and computational efficiency for weakly supervised RES applications.
 Roles in charge: 
   * Collect, read and analysis the paper from this research area and discuss advantages and disadvantages of each pathway to find novel ideas with supervisor
